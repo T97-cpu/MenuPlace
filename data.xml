@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <place id = "1">
+        <name>Sapa Highlands</name>
+        <url>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59042.5176158895!2d103.7819187159904!3d22.347686722372462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36cd416833ee9ad5%3A0xe1f42da2bbc76727!2zdHQuIFNhIFBhLCBTYSBQYSwgTMOgbyBDYWksIFZp4buHdCBOYW0!5e0!3m2!1svi!2sru!4v1591201885694!5m2!1svi!2sru</url>
+        <description>
+            The mountainous region of Lao Cai Province lures adventure travelers who appreciate fresh air, magical waterfalls, rice terraces, cultural homestays, bamboo forests and challenging hikes. The area is home to Vietnam's highest summit, Fansipan Mountain, which stands at 10,311 feet tall. The best time to visit is April and May, right before the rainy summer season.
+        </description>
+    </place>
+    <place id = "2">
+        <name>Nha Trang Vinpearl Cable Car</name>
+        <url>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3899.682517716256!2d109.21231041433747!3d12.201992534599466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317060cab8140e9d%3A0xddcb014c1a49ce00!2sC%C3%A1p%20treo%20Vinpearl%20Nha%20Trang!5e0!3m2!1svi!2sru!4v1591201787623!5m2!1svi!2sru</url>
+        <description>
+            It's not only natural wonders that have made our list. Off Vietnam's central coast, the two-mile-long Nha Trang Vinpearl Cable Car connects Hon Tre Island with Nha Trang. Built across a series of Eiffel Tower-esque structures, the cable car ride provides aerial views of the vast ocean below and towering mountains in the distance.
+        </description>
+    </place>
+    <place id = "3">
+        <name>Phu Quoc Island</name>
+        <url>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d502579.0194243051!2d103.6772204853514!3d10.22940151678636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a78c62b49eda17%3A0x8aa79fbbdd72cdb!2zUGjDuiBRdeG7kWM!5e0!3m2!1svi!2sru!4v1591201933275!5m2!1svi!2sru</url>
+        <description>
+            On the map, Phu Quoc Island is actually closer to Cambodia than Vietnam. Ringed by white-sand beaches, this unspoilt oasis in the Gulf of Thailand recently welcomed the JW Marriott Phu Quoc Emerald Bay Resort Spa, which was designed by Bill Bensley. From there, it's all tropical jungles, white beaches, snorkeling, diving, kayaking and island-hopping around the 20-some uninhabited islets nearby.
+        </description>
+    </place>
+    <place id = "4">
+        <name>Halong Bay</name>
+        <url>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238439.88475277906!2d106.90278614351476!3d20.96764174264699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314a583f825ff2c9%3A0xc5d143510be28d44!2zVHAuIEjhuqEgTG9uZywgUXXhuqNuZyBOaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2sru!4v1591202008790!5m2!1svi!2sru</url>
+        <description>
+            Named a UNESCO World Heritage Site in 1994, Halong Bay is home to thousands of craggy karst rock formations, grottoes and islands -- most easily explored on an overnight cruise. Not surprisingly, the photogenic landscape draws millions of travelers to northeastern Vietnam every year.
+        </description>
+    </place>
+    <place id = "5">
+        <name>Phong Nha - Ke Bang National Park</name>
+        <url>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.251534232033!2d106.28120411439477!3d17.590786601538134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3138ba4e96f40ad5%3A0x5d3b4a2c611e58b0!2sPhong%20Nha%20-%20Ke%20Bang%20National%20Park%20Headquarter!5e0!3m2!1svi!2sru!4v1591201972872!5m2!1svi!2sru</url>
+        <description>
+            A UNESCO World Heritage, Phong Nha-Ke Bang National Park is heaven for spelunkers. Located in northern Vietnam, the area is home to more than 300 caves, imposing karst mountains, jungle treks, and underground rivers that feel like they've been plucked from an eerie fairytale. It's here where you will find the storied Son Doong Cave, which has been named the largest cave system in the world.
+        </description>
+	</place>
+    </data>
